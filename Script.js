@@ -64,7 +64,7 @@ ScrollReveal().reveal('.home-content p, .about-content',
 /*==styped js==*/
 
 const typed = new Typed('.multiple-text',{
-strings: ['Senior Analyst']['MIS-Expert'],
+strings: ['Senior Analyst'],
 typeSpeed:100,
 backSpeed:100,
 bcakDelay:1000,
